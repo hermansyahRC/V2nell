@@ -1,4 +1,4 @@
-```java
+
 package com.v2nell.app;
 
 import android.app.Activity;
@@ -356,4 +356,3 @@ public class MainActivity extends Activity {
         setContentView(root);
     }
 }
-```
